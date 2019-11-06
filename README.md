@@ -12,19 +12,19 @@ One can trace to their parent repo using repo fullname using username "learn-co-
 The repos in the master repo "flatiron-labs" include: 
 
 intro_repos: 
-gingkolane/first-ide-lab-ruby-intro-000
-gingkolane/hello-world-ruby-ruby-intro-000
-gingkolane/javascript-arithmetic-lab-js-intro-000
-gingkolane/javascript-intro-to-functions-lab-js-intro-000
-gingkolane/javascript-logging-lab-js-intro-000
-gingkolane/javascript-strings-lab-js-intro-000
-gingkolane/js-functions-lab-js-intro-000
-gingkolane/ruby-lecture-reading-error-messages-ruby-intro-000
-gingkolane/ruby-variable-assignment-ruby-intro-000
-gingkolane/skills-based-javascript-intro-to-flow-control-js-intro-000
-gingkolane/ttt-1-welcome-rb-ruby-intro-000
-gingkolane/ttt-2-board-rb-ruby-intro-000
-gingkolane/ttt-3-display_board-example-ruby-intro-000
+'gingkolane/first-ide-lab-ruby-intro-000'<br>
+'gingkolane/hello-world-ruby-ruby-intro-000'<br>
+'gingkolane/javascript-arithmetic-lab-js-intro-000'<br>
+'gingkolane/javascript-intro-to-functions-lab-js-intro-000'<br>
+'gingkolane/javascript-logging-lab-js-intro-000'<br>
+'gingkolane/javascript-strings-lab-js-intro-000'<br>
+'gingkolane/js-functions-lab-js-intro-000'<br>
+'gingkolane/ruby-lecture-reading-error-messages-ruby-intro-000'<br>
+'gingkolane/ruby-variable-assignment-ruby-intro-000'<br>
+'gingkolane/skills-based-javascript-intro-to-flow-control-js-intro-000'<br>
+'gingkolane/ttt-1-welcome-rb-ruby-intro-000'<br>
+'gingkolane/ttt-2-board-rb-ruby-intro-000'<br>
+'gingkolane/ttt-3-display_board-example-ruby-intro-000'<br>
 
 
 prework_repos: 
