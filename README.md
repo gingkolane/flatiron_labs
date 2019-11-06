@@ -1,4 +1,4 @@
-My bootcamp study labs in Flatiron
+<h1>My bootcamp study labs in Flatiron</h1>
 
 These repos were forked individually before and during the bootcamp. 
 
@@ -47,7 +47,7 @@ The repos in the master repo "flatiron-labs" include:
 'gingkolane/speaking-grandma-dumbo-web-career-040119', <br>
 'gingkolane/todo-ruby-basics-dumbo-web-career-040119' <br>
 
-dumbo-web-career-042219 repos: 
+<h4>dumbo-web-career-042219 repos:</h4> 
 'gingkolane/Active-Record-Association-Methods-dumbo-web-career-042219', <br>
 'gingkolane/active-record-review-discussion-questions-dumbo-web-career-042219', <br>
 'gingkolane/activerecord-associations-intro-dumbo-web-career-042219', <br>
@@ -284,7 +284,7 @@ dumbo-web-career-042219 repos:
 'gingkolane/writing-migrations-dumbo-web-career-042219', <br>
 'gingkolane/yield-and-blocks-dumbo-web-career-042219' <br>
 
-dumbo-web-051319 repos: 
+<h4>dumbo-web-051319 repos:</h4>
 'gingkolane/bookliker-practice-challenge-dumbo-web-051319', <br>
 'gingkolane/cookies_and_sessions_lab-dumbo-web-051319', <br>
 'gingkolane/debugging-workshop-dumbo-web-051319', <br>
@@ -341,7 +341,7 @@ dumbo-web-051319 repos:
 'gingkolane/westworld-command-center-react-dumbo-web-051319', <br>
 'gingkolane/woof-woof-js-practice-dumbo-web-051319' <br>
 
-Misc practices:
+<h4>Misc practices:</h4>
 'gingkolane/a-react-app-example-dumbo-web-career-021819', <br>
 'gingkolane/bikini_bottom', <br>
 'gingkolane/blog-flash', <br>
