@@ -1,0 +1,32 @@
+<!-- 
+Step 1: prepare the local files, make git repo non-git
+
+Organize all repo in one folder, can be many levels, as all these will be convert to non-git folders. 
+
+find all the .git directories in all level of directories and remove them -->
+
+find . -type d -name ".git" -exec rm -rf {} +
+
+<!-- The repos folders and files are just normal folder inside one master repo, instead of git repos. 
+The .gitignore still remains for each folder. Gitignore works in all level. 
+
+step 2: create a new repo in github with .gitignore sand readme. 
+
+  key is the gitignore file, which needs to have ignore for .DS_Store and .vscode
+  Just for sure, I included the ignore files for node.js and rails. 
+
+  make sure to create .gitignore before putting any file into it. I changed .gitignore before I cloned it. 
+
+Step 3: in terminal, clone the new master repo into local. Copy the link from "Clone from SSH" -->
+
+git clone git@github.com:gingkolane/flatiron-labs.git
+
+<!-- Step 4: move all the files in the previous folder into the newly cloned directory folder in mac finder
+
+Step 5: in terminal, go to directory of the master repo  -->
+
+git add .
+git commit -m "add repo content into the master repo" 
+git push
+
+<!-- This push takes a while, when done, go to github and check the content go uploaded.  -->
