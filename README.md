@@ -11,351 +11,349 @@ One can trace to their parent repo using repo fullname using username "learn-co-
 
 The repos in the master repo "flatiron-labs" include: 
 
-intro_repos: 
-'gingkolane/first-ide-lab-ruby-intro-000'<br>
-'gingkolane/hello-world-ruby-ruby-intro-000'<br>
-'gingkolane/javascript-arithmetic-lab-js-intro-000'<br>
-'gingkolane/javascript-intro-to-functions-lab-js-intro-000'<br>
-'gingkolane/javascript-logging-lab-js-intro-000'<br>
-'gingkolane/javascript-strings-lab-js-intro-000'<br>
-'gingkolane/js-functions-lab-js-intro-000'<br>
-'gingkolane/ruby-lecture-reading-error-messages-ruby-intro-000'<br>
-'gingkolane/ruby-variable-assignment-ruby-intro-000'<br>
-'gingkolane/skills-based-javascript-intro-to-flow-control-js-intro-000'<br>
-'gingkolane/ttt-1-welcome-rb-ruby-intro-000'<br>
-'gingkolane/ttt-2-board-rb-ruby-intro-000'<br>
-'gingkolane/ttt-3-display_board-example-ruby-intro-000'<br>
+<h4>intro_repos: </h4>
+'gingkolane/first-ide-lab-ruby-intro-000', <br>
+'gingkolane/hello-world-ruby-ruby-intro-000', <br>
+'gingkolane/javascript-arithmetic-lab-js-intro-000', <br>
+'gingkolane/javascript-intro-to-functions-lab-js-intro-000', <br>
+'gingkolane/javascript-logging-lab-js-intro-000', <br>
+'gingkolane/javascript-strings-lab-js-intro-000', <br>
+'gingkolane/js-functions-lab-js-intro-000', <br>
+'gingkolane/ruby-lecture-reading-error-messages-ruby-intro-000', <br>
+'gingkolane/ruby-variable-assignment-ruby-intro-000', <br>
+'gingkolane/skills-based-javascript-intro-to-flow-control-js-intro-000', <br>
+'gingkolane/ttt-1-welcome-rb-ruby-intro-000', <br>
+'gingkolane/ttt-2-board-rb-ruby-intro-000', <br>
+'gingkolane/ttt-3-display_board-example-ruby-intro-000' <br>
 
 
-prework_repos: 
-gingkolane/countdown-to-midnight-dumbo-web-career-040119
-gingkolane/debugging-with-pry-dumbo-web-career-040119
-gingkolane/dice-roll-ruby-dumbo-web-career-040119
-gingkolane/looping-break-gets-dumbo-web-career-040119
-gingkolane/looping-for-dumbo-web-career-040119
-gingkolane/looping-times-dumbo-web-career-040119
-gingkolane/looping-while-until-dumbo-web-career-040119
-gingkolane/meal-choice-dumbo-web-career-040119
-gingkolane/method-arguments-lab-dumbo-web-career-040119
-gingkolane/method-scope-lab-dumbo-web-career-040119
-gingkolane/operators-dumbo-web-career-040119
-gingkolane/parrot-ruby-dumbo-web-career-040119
-gingkolane/rspec-fizzbuzz-dumbo-web-career-040119
-gingkolane/say-hello-ruby-dumbo-web-career-040119
-gingkolane/simple-loops-dumbo-web-career-040119
-gingkolane/simple-math-dumbo-web-career-040119
-gingkolane/speaking-grandma-dumbo-web-career-040119
-gingkolane/todo-ruby-basics-dumbo-web-career-040119
-
+<h4>prework_repos: </h4>
+'gingkolane/countdown-to-midnight-dumbo-web-career-040119', <br>
+'gingkolane/debugging-with-pry-dumbo-web-career-040119', <br>
+'gingkolane/dice-roll-ruby-dumbo-web-career-040119', <br>
+'gingkolane/looping-break-gets-dumbo-web-career-040119', <br>
+'gingkolane/looping-for-dumbo-web-career-040119', <br>
+'gingkolane/looping-times-dumbo-web-career-040119', <br>
+'gingkolane/looping-while-until-dumbo-web-career-040119', <br>
+'gingkolane/meal-choice-dumbo-web-career-040119', <br>
+'gingkolane/method-arguments-lab-dumbo-web-career-040119', <br>
+'gingkolane/method-scope-lab-dumbo-web-career-040119', <br>
+'gingkolane/operators-dumbo-web-career-040119', <br>
+'gingkolane/parrot-ruby-dumbo-web-career-040119', <br>
+'gingkolane/rspec-fizzbuzz-dumbo-web-career-040119', <br>
+'gingkolane/say-hello-ruby-dumbo-web-career-040119', <br>
+'gingkolane/simple-loops-dumbo-web-career-040119', <br>
+'gingkolane/simple-math-dumbo-web-career-040119', <br>
+'gingkolane/speaking-grandma-dumbo-web-career-040119', <br>
+'gingkolane/todo-ruby-basics-dumbo-web-career-040119' <br>
 
 dumbo-web-career-042219 repos: 
-gingkolane/Active-Record-Association-Methods-dumbo-web-career-042219
-gingkolane/active-record-review-discussion-questions-dumbo-web-career-042219
-gingkolane/activerecord-associations-intro-dumbo-web-career-042219
-gingkolane/activerecord-costume-store-todo-dumbo-web-career-042219
-gingkolane/activerecord-crud-dumbo-web-career-042219
-gingkolane/activerecord-lifecycle-reading-dumbo-web-career-042219
-gingkolane/activerecord-tvshow-dumbo-web-career-042219
-gingkolane/activerecord-validations-lab-dumbo-web-career-042219
-gingkolane/advanced-hashes-hashketball-dumbo-web-career-042219
-gingkolane/apis-and-iteration-dumbo-web-career-042219
-gingkolane/apples-and-holidays-dumbo-web-career-042219
-gingkolane/array-CRUD-lab-dumbo-web-career-042219
-gingkolane/array-methods-lab-dumbo-web-career-042219
-gingkolane/authentication_and_authorization_with_gems-dumbo-web-career-042219
-gingkolane/badges-and-schedules-dumbo-web-career-042219
-gingkolane/basic-nested-forms-dumbo-web-career-042219
-gingkolane/basic-nested-forms-lab-dumbo-web-career-042219
-gingkolane/basic-sinatra-forms-lab-dumbo-web-career-042219
-gingkolane/blood-oath-relations-dumbo-web-career-042219
-gingkolane/building-nested-hashes-dumbo-web-career-042219
-gingkolane/cancan_lab-dumbo-web-career-042219
-gingkolane/cancan_readme-dumbo-web-career-042219
-gingkolane/cartoon-collections-dumbo-web-career-042219
-gingkolane/classes-and-instances-lab-ruby-dumbo-web-career-042219
-gingkolane/collections_practice-dumbo-web-career-042219
-gingkolane/cookies_and_sessions_lab-dumbo-web-career-042219
-gingkolane/cookies_and_sessions_readme-dumbo-web-career-042219
-gingkolane/crud-with-validations-lab-dumbo-web-career-042219
-gingkolane/css-graffiti-override-dumbo-web-career-042219
-gingkolane/css-kitten-wheelbarrow-dumbo-web-career-042219
-gingkolane/deck-of-cards-dumbo-web-career-042219
-gingkolane/delete-forms-rails-dumbo-web-career-042219
-gingkolane/deli-counter-dumbo-web-career-042219
-gingkolane/deploy-on-day-1-dumbo-web-career-042219
-gingkolane/devise_lab-dumbo-web-career-042219
-gingkolane/devise_pundit_lab-dumbo-web-career-042219
-gingkolane/devise_pundit_readme-dumbo-web-career-042219
-gingkolane/devise_readme-dumbo-web-career-042219
-gingkolane/devise_roles_lab-dumbo-web-career-042219
-gingkolane/devise_roles_readme-dumbo-web-career-042219
-gingkolane/displaying-associations-rails-dumbo-web-career-042219
-gingkolane/displaying-associations-rails-lab-dumbo-web-career-042219
-gingkolane/displaying-has-many-through-rails-dumbo-web-career-042219
-gingkolane/displaying-has-many-through-rails-lab-dumbo-web-career-042219
-gingkolane/fe-code-along-4-dumbo-web-career-042219
-gingkolane/fe-code-along-ex-2-dumbo-web-career-042219
-gingkolane/fewpjs_youre_a_dom_manipulation_master-dumbo-web-career-042219
-gingkolane/fewpjs-acting-on-events-dumbo-web-career-042219
-gingkolane/fewpjs-asynchrony-dumbo-web-career-042219
-gingkolane/fewpjs-changing-the-dom-with-dev-tools-and-javascript-dumbo-web-career-042219
-gingkolane/fewpjs-communicating-with-the-server-dumbo-web-career-042219
-gingkolane/fewpjs-discussion-questions-intro-to-dom-js-dumbo-web-career-042219
-gingkolane/fewpjs-document-onload-dumbo-web-career-042219
-gingkolane/fewpjs-dom-editing-lab-dumbo-web-career-042219
-gingkolane/fewpjs-event-listening-dumbo-web-career-042219
-gingkolane/fewpjs-eventing-master-dumbo-web-career-042219
-gingkolane/fewpjs-events-functions-intro-dumbo-web-career-042219
-gingkolane/fewpjs-fetch-lab-dumbo-web-career-042219
-gingkolane/fewpjs-fns-as-first-class-data-array-o-functions-dumbo-web-career-042219
-gingkolane/fewpjs-fns-as-first-class-data-do-behavior-dumbo-web-career-042219
-gingkolane/fewpjs-functions-in-javascript-dumbo-web-career-042219
-gingkolane/fewpjs-introducing-the-dom-and-just-enough-javascript-dumbo-web-career-042219
-gingkolane/fewpjs-introduction-to-the-dom-to-get-started-dumbo-web-career-042219
-gingkolane/fewpjs-iterators-fndcl-fnexpr-filter-lab-dumbo-web-career-042219
-gingkolane/fewpjs-iterators-fndcl-fnexpr-find-lab-dumbo-web-career-042219
-gingkolane/fewpjs-iterators-fndcl-fnexpr-map-lab-dumbo-web-career-042219
-gingkolane/fewpjs-iterators-fndcl-fnexpr-reduce-lab-dumbo-web-career-042219
-gingkolane/fewpjs-javascript-eventing-dumbo-web-career-042219
-gingkolane/fewpjs-js-fundamentals-arithmetic-lab-dumbo-web-career-042219
-gingkolane/fewpjs-js-fundamentals-arrays-lab-dumbo-web-career-042219
-gingkolane/fewpjs-js-fundamentals-calling-methods-dumbo-web-career-042219
-gingkolane/fewpjs-js-fundamentals-collections-dumbo-web-career-042219
-gingkolane/fewpjs-js-fundamentals-comparisons-dumbo-web-career-042219
-gingkolane/fewpjs-js-fundamentals-conditionals-dumbo-web-career-042219
-gingkolane/fewpjs-js-fundamentals-lexical-scoping-dumbo-web-career-042219
-gingkolane/fewpjs-js-fundamentals-logical-operators-dumbo-web-career-042219
-gingkolane/fewpjs-js-fundamentals-scope-lab-dumbo-web-career-042219
-gingkolane/fewpjs-js-fundamentals-variables-dumbo-web-career-042219
-gingkolane/fewpjs-js-fundamentals-variables-lab-dumbo-web-career-042219
-gingkolane/fewpjs-jsf-hoisting-dumbo-web-career-042219
-gingkolane/fewpjs-jsf-scope-chain-dumbo-web-career-042219
-gingkolane/fewpjs-jsf-scope-dumbo-web-career-042219
-gingkolane/fewpjs-objects-and-fetch-intro-dumbo-web-career-042219
-gingkolane/fewpjs-queryselector-methods-dumbo-web-career-042219
-gingkolane/fewpjs-removing-altering-and-inserting-html-lab-dumbo-web-career-042219
-gingkolane/fewpjs-sending-data-with-fetch-dumbo-web-career-042219
-gingkolane/fewpjs-the-dom-tree-dumbo-web-career-042219
-gingkolane/fewpjs-use-fetch-dumbo-web-career-042219
-gingkolane/first-lab-dumbo-web-career-042219
-gingkolane/flatiron-bnb-associations-dumbo-web-career-042219
-gingkolane/flatiron-bnb-controllers-and-views-dumbo-web-career-042219
-gingkolane/flatiron-bnb-methods-dumbo-web-career-042219
-gingkolane/flatiron-kitchen-dumbo-web-career-042219
-gingkolane/forms-and-basic-associations-rails-dumbo-web-career-042219
-gingkolane/forms-and-basic-associations-rails-lab-dumbo-web-career-042219
-gingkolane/git-merge-conflicts-dumbo-web-career-042219
-gingkolane/has_secure_password_lab-dumbo-web-career-042219
-gingkolane/has_secure_password_readme-dumbo-web-career-042219
-gingkolane/has-many-through-forms-rails-dumbo-web-career-042219
-gingkolane/has-many-through-forms-rails-labs-dumbo-web-career-042219
-gingkolane/hash-iteration-dumbo-web-career-042219
-gingkolane/htm-css-code-along-3-dumbo-web-career-042219
-gingkolane/html-album-cover-dumbo-web-career-042219
-gingkolane/immersive-week-1-discussion-questions-dumbo-web-career-042219
-gingkolane/instance-methods-lab-ruby-dumbo-web-career-042219
-gingkolane/intro-to-capybara-dumbo-web-career-042219
-gingkolane/intro-to-rake-dumbo-web-career-042219
-gingkolane/intro-to-simple-array-manipulations-dumbo-web-career-042219
-gingkolane/intro-to-tdd-rspec-and-learn-dumbo-web-career-042219
-gingkolane/join-the-fun-rails-dumbo-web-career-042219
-gingkolane/js-basics-data-types-readme-dumbo-web-career-042219
-gingkolane/js-data-structures-objects-lab-dumbo-web-career-042219
-gingkolane/js-data-structures-objects-readme-dumbo-web-career-042219
-gingkolane/js-looping-and-iteration-looping-code-along-dumbo-web-career-042219
-gingkolane/js-looping-and-iteration-object-iteration-readme-dumbo-web-career-042219
-gingkolane/jsdom-dom-challenge-dumbo-web-career-042219
-gingkolane/jsdom-fetch-dog-ceo-challenge-dumbo-web-career-042219
-gingkolane/jsdom-task-lister-lite-dumbo-web-career-042219
-gingkolane/jsdom-toy-tale-dumbo-web-career-042219
-gingkolane/key-for-min-value-dumbo-web-career-042219
-gingkolane/login_required_lab-dumbo-web-career-042219
-gingkolane/login_required_readme-dumbo-web-career-042219
-gingkolane/manipulating-hashes-dumbo-web-career-042219
-gingkolane/mechanics-of-migrations-dumbo-web-career-042219
-gingkolane/model-class-methods-lab-dumbo-web-career-042219
-gingkolane/model-class-methods-reading-dumbo-web-career-042219
-gingkolane/modification-nested-routes-lab-dumbo-web-career-042219
-gingkolane/modification-nested-routes-reading-dumbo-web-career-042219
-gingkolane/module-one-final-project-guidelines-dumbo-web-career-042219
-gingkolane/my-collect-dumbo-web-career-042219
-gingkolane/my-each-dumbo-web-career-042219
-gingkolane/my-first-hash-dumbo-web-career-042219
-gingkolane/my-little-rainbow-dumbo-web-career-042219
-gingkolane/my-select-dumbo-web-career-042219
-gingkolane/namespaced-routes-lab-dumbo-web-career-042219
-gingkolane/namespaced-routes-reading-dumbo-web-career-042219
-gingkolane/nyc-sinatra-dumbo-web-career-042219
-gingkolane/omniauth_lab-dumbo-web-career-042219
-gingkolane/omniauth_readme-dumbo-web-career-042219
-gingkolane/OO-Animal-Zoo-dumbo-web-career-042219
-gingkolane/oo-basics-dumbo-web-career-042219
-gingkolane/oo-basics-with-class-constants-dumbo-web-career-042219
-gingkolane/oo-cash-register-dumbo-web-career-042219
-gingkolane/oo-counting-sentences-dumbo-web-career-042219
-gingkolane/OO-FlatironMifflin-dumbo-web-career-042219
-gingkolane/oo-inheritance-code-along-dumbo-web-career-042219
-gingkolane/oo-meowing-cat-dumbo-web-career-042219
-gingkolane/OO-mini-project-dumbo-web-career-042219
-gingkolane/oo-my-pets-dumbo-web-career-042219
-gingkolane/oo-person-dumbo-web-career-042219
-gingkolane/oxford-comma-dumbo-web-career-042219
-gingkolane/partial-locals-lab-dumbo-web-career-042219
-gingkolane/partial-locals-reading-dumbo-web-career-042219
-gingkolane/prime-ruby-dumbo-web-career-042219
-gingkolane/rack-dynamic-routes-lab-dumbo-web-career-042219
-gingkolane/rack-dynamic-web-apps-dumbo-web-career-042219
-gingkolane/rack-get-params-lab-dumbo-web-career-042219
-gingkolane/rack-intro-dumbo-web-career-042219
-gingkolane/rack-responses-lab-dumbo-web-career-042219
-gingkolane/rails-blog-associations-validations-dumbo-web-career-042219
-gingkolane/rails-blog-nested-forms-dumbo-web-career-042219
-gingkolane/rails-blog-nested-resources-dumbo-web-career-042219
-gingkolane/rails-create-action-lab-dumbo-web-career-042219
-gingkolane/rails-create-action-readme-dumbo-web-career-042219
-gingkolane/rails-cru-form_for-lab-dumbo-web-career-042219
-gingkolane/rails-dynamic-request-lab-dumbo-web-career-042219
-gingkolane/rails-dynamic-request-readme-dumbo-web-career-042219
-gingkolane/rails-edit-update-action-readme-dumbo-web-career-042219
-gingkolane/rails-form_for-lab-dumbo-web-career-042219
-gingkolane/rails-generators-readme-dumbo-web-career-042219
-gingkolane/rails-hello-world-lab-dumbo-web-career-042219
-gingkolane/rails-index-show-new-create-lab-dumbo-web-career-042219
-gingkolane/rails-layouts-and-templates-dumbo-web-career-042219
-gingkolane/rails-pollywog-ranch-dumbo-web-career-042219
-gingkolane/Rails-Practice-Code-Challenge-Travelatr-dumbo-web-career-042219
-gingkolane/rails-programmer-profile-partials-dumbo-web-career-042219
-gingkolane/rails-restful-index-action-lab-dumbo-web-career-042219
-gingkolane/refactoring-views-with-helpers-lab-dumbo-web-career-042219
-gingkolane/refactoring-views-with-helpers-reading-dumbo-web-career-042219
-gingkolane/refresher-on-mvc-dumbo-web-career-042219
-gingkolane/rendering-collections-lab-dumbo-web-career-042219
-gingkolane/rendering-collections-reading-dumbo-web-career-042219
-gingkolane/reverse-each-word-dumbo-web-career-042219
-gingkolane/routing-nested-resources-lab-dumbo-web-career-042219
-gingkolane/routing-nested-resources-reading-dumbo-web-career-042219
-gingkolane/ruby-advanced-class-methods-lab-dumbo-web-career-042219
-gingkolane/ruby-boating-school-dumbo-web-career-042219
-gingkolane/ruby-class-variables-and-class-methods-lab-dumbo-web-career-042219
-gingkolane/ruby-closures-readme-dumbo-web-career-042219
-gingkolane/ruby-inheritance-lab-dumbo-web-career-042219
-gingkolane/ruby-instance-variables-lab-dumbo-web-career-042219
-gingkolane/ruby-intro-to-arrays-lab-dumbo-web-career-042219
-gingkolane/ruby-intro-to-hashes-lab-dumbo-web-career-042219
-gingkolane/ruby-lecture-fixing-our-broken-program-dumbo-web-career-042219
-gingkolane/ruby-object-attributes-lab-dumbo-web-career-042219
-gingkolane/ruby-object-initialize-lab-dumbo-web-career-042219
-gingkolane/ruby-objects-belong-to-lab-dumbo-web-career-042219
-gingkolane/ruby-objects-has-many-through-lab-dumbo-web-career-042219
-gingkolane/ruby-puppy-dumbo-web-career-042219
-gingkolane/ruby-rails-testing-dumbo-web-career-042219
-gingkolane/school-domain-dumbo-web-career-042219
-gingkolane/sessions_controller_lab-dumbo-web-career-042219
-gingkolane/sessions_controller_readme-dumbo-web-career-042219
-gingkolane/simple-blackjack-cli-dumbo-web-career-042219
-gingkolane/simple-nesting-dumbo-web-career-042219
-gingkolane/simple-partials-lab-dumbo-web-career-042219
-gingkolane/simple-partials-reading-dumbo-web-career-042219
-gingkolane/sinatra-activerecord-setup-dumbo-web-career-042219
-gingkolane/sinatra-ar-crud-lab-dumbo-web-career-042219
-gingkolane/sinatra-basic-routes-lab-dumbo-web-career-042219
-gingkolane/sinatra-basic-views-lab-dumbo-web-career-042219
-gingkolane/sinatra-dynamic-routes-codealong-dumbo-web-career-042219
-gingkolane/sinatra-dynamic-routes-lab-dumbo-web-career-042219
-gingkolane/sinatra-forms-params-readme-walkthrough-dumbo-web-career-042219
-gingkolane/sinatra-from-scratch-readme-dumbo-web-career-042219
-gingkolane/sinatra-integrating-models-walkthrough-dumbo-web-career-042219
-gingkolane/sinatra-mvc-file-structure-dumbo-web-career-042219
-gingkolane/sinatra-mvc-lab-dumbo-web-career-042219
-gingkolane/sinatra-nested-forms-dumbo-web-career-042219
-gingkolane/sinatra-restful-routes-lab-dumbo-web-career-042219
-gingkolane/sinatra-view-and-controller-readme-walkthrough-dumbo-web-career-042219
-gingkolane/sinatra-views-dumbo-web-career-042219
-gingkolane/SQL-bear-organizer-lab-dumbo-web-career-042219
-gingkolane/square_array-dumbo-web-career-042219
-gingkolane/strong-params-basics-dumbo-web-career-042219
-gingkolane/translating-orm-to-ar-dumbo-web-career-042219
-gingkolane/traversing-nested-objects-dumbo-web-career-042219
-gingkolane/validations-in-controller-actions-rails-dumbo-web-career-042219
-gingkolane/validations-in-controller-actions-rails-lab-dumbo-web-career-042219
-gingkolane/validations-with-form_for-rails-dumbo-web-career-042219
-gingkolane/validations-with-form_tag-rails-dumbo-web-career-042219
-gingkolane/validations-with-form_tag-rails-lab-dumbo-web-career-042219
-gingkolane/week-1-day-3-discussion-dumbo-web-career-042219
-gingkolane/writing-migrations-dumbo-web-career-042219
-gingkolane/yield-and-blocks-dumbo-web-career-042219
+'gingkolane/Active-Record-Association-Methods-dumbo-web-career-042219', <br>
+'gingkolane/active-record-review-discussion-questions-dumbo-web-career-042219', <br>
+'gingkolane/activerecord-associations-intro-dumbo-web-career-042219', <br>
+'gingkolane/activerecord-costume-store-todo-dumbo-web-career-042219', <br>
+'gingkolane/activerecord-crud-dumbo-web-career-042219', <br>
+'gingkolane/activerecord-lifecycle-reading-dumbo-web-career-042219', <br>
+'gingkolane/activerecord-tvshow-dumbo-web-career-042219', <br>
+'gingkolane/activerecord-validations-lab-dumbo-web-career-042219', <br>
+'gingkolane/advanced-hashes-hashketball-dumbo-web-career-042219', <br>
+'gingkolane/apis-and-iteration-dumbo-web-career-042219', <br>
+'gingkolane/apples-and-holidays-dumbo-web-career-042219', <br>
+'gingkolane/array-CRUD-lab-dumbo-web-career-042219', <br>
+'gingkolane/array-methods-lab-dumbo-web-career-042219', <br>
+'gingkolane/authentication_and_authorization_with_gems-dumbo-web-career-042219', <br>
+'gingkolane/badges-and-schedules-dumbo-web-career-042219', <br>
+'gingkolane/basic-nested-forms-dumbo-web-career-042219', <br>
+'gingkolane/basic-nested-forms-lab-dumbo-web-career-042219', <br>
+'gingkolane/basic-sinatra-forms-lab-dumbo-web-career-042219', <br>
+'gingkolane/blood-oath-relations-dumbo-web-career-042219', <br>
+'gingkolane/building-nested-hashes-dumbo-web-career-042219', <br>
+'gingkolane/cancan_lab-dumbo-web-career-042219', <br>
+'gingkolane/cancan_readme-dumbo-web-career-042219', <br>
+'gingkolane/cartoon-collections-dumbo-web-career-042219', <br>
+'gingkolane/classes-and-instances-lab-ruby-dumbo-web-career-042219', <br>
+'gingkolane/collections_practice-dumbo-web-career-042219', <br>
+'gingkolane/cookies_and_sessions_lab-dumbo-web-career-042219', <br>
+'gingkolane/cookies_and_sessions_readme-dumbo-web-career-042219', <br>
+'gingkolane/crud-with-validations-lab-dumbo-web-career-042219', <br>
+'gingkolane/css-graffiti-override-dumbo-web-career-042219', <br>
+'gingkolane/css-kitten-wheelbarrow-dumbo-web-career-042219', <br>
+'gingkolane/deck-of-cards-dumbo-web-career-042219', <br>
+'gingkolane/delete-forms-rails-dumbo-web-career-042219', <br>
+'gingkolane/deli-counter-dumbo-web-career-042219', <br>
+'gingkolane/deploy-on-day-1-dumbo-web-career-042219', <br>
+'gingkolane/devise_lab-dumbo-web-career-042219', <br>
+'gingkolane/devise_pundit_lab-dumbo-web-career-042219', <br>
+'gingkolane/devise_pundit_readme-dumbo-web-career-042219', <br>
+'gingkolane/devise_readme-dumbo-web-career-042219', <br>
+'gingkolane/devise_roles_lab-dumbo-web-career-042219', <br>
+'gingkolane/devise_roles_readme-dumbo-web-career-042219', <br>
+'gingkolane/displaying-associations-rails-dumbo-web-career-042219', <br>
+'gingkolane/displaying-associations-rails-lab-dumbo-web-career-042219', <br>
+'gingkolane/displaying-has-many-through-rails-dumbo-web-career-042219', <br>
+'gingkolane/displaying-has-many-through-rails-lab-dumbo-web-career-042219', <br>
+'gingkolane/fe-code-along-4-dumbo-web-career-042219', <br>
+'gingkolane/fe-code-along-ex-2-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs_youre_a_dom_manipulation_master-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-acting-on-events-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-asynchrony-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-changing-the-dom-with-dev-tools-and-javascript-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-communicating-with-the-server-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-discussion-questions-intro-to-dom-js-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-document-onload-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-dom-editing-lab-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-event-listening-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-eventing-master-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-events-functions-intro-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-fetch-lab-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-fns-as-first-class-data-array-o-functions-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-fns-as-first-class-data-do-behavior-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-functions-in-javascript-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-introducing-the-dom-and-just-enough-javascript-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-introduction-to-the-dom-to-get-started-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-iterators-fndcl-fnexpr-filter-lab-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-iterators-fndcl-fnexpr-find-lab-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-iterators-fndcl-fnexpr-map-lab-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-iterators-fndcl-fnexpr-reduce-lab-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-javascript-eventing-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-js-fundamentals-arithmetic-lab-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-js-fundamentals-arrays-lab-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-js-fundamentals-calling-methods-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-js-fundamentals-collections-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-js-fundamentals-comparisons-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-js-fundamentals-conditionals-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-js-fundamentals-lexical-scoping-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-js-fundamentals-logical-operators-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-js-fundamentals-scope-lab-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-js-fundamentals-variables-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-js-fundamentals-variables-lab-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-jsf-hoisting-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-jsf-scope-chain-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-jsf-scope-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-objects-and-fetch-intro-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-queryselector-methods-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-removing-altering-and-inserting-html-lab-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-sending-data-with-fetch-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-the-dom-tree-dumbo-web-career-042219', <br>
+'gingkolane/fewpjs-use-fetch-dumbo-web-career-042219', <br>
+'gingkolane/first-lab-dumbo-web-career-042219', <br>
+'gingkolane/flatiron-bnb-associations-dumbo-web-career-042219', <br>
+'gingkolane/flatiron-bnb-controllers-and-views-dumbo-web-career-042219', <br>
+'gingkolane/flatiron-bnb-methods-dumbo-web-career-042219', <br>
+'gingkolane/flatiron-kitchen-dumbo-web-career-042219', <br>
+'gingkolane/forms-and-basic-associations-rails-dumbo-web-career-042219', <br>
+'gingkolane/forms-and-basic-associations-rails-lab-dumbo-web-career-042219', <br>
+'gingkolane/git-merge-conflicts-dumbo-web-career-042219', <br>
+'gingkolane/has_secure_password_lab-dumbo-web-career-042219', <br>
+'gingkolane/has_secure_password_readme-dumbo-web-career-042219', <br>
+'gingkolane/has-many-through-forms-rails-dumbo-web-career-042219', <br>
+'gingkolane/has-many-through-forms-rails-labs-dumbo-web-career-042219', <br>
+'gingkolane/hash-iteration-dumbo-web-career-042219', <br>
+'gingkolane/htm-css-code-along-3-dumbo-web-career-042219', <br>
+'gingkolane/html-album-cover-dumbo-web-career-042219', <br>
+'gingkolane/immersive-week-1-discussion-questions-dumbo-web-career-042219', <br>
+'gingkolane/instance-methods-lab-ruby-dumbo-web-career-042219', <br>
+'gingkolane/intro-to-capybara-dumbo-web-career-042219', <br>
+'gingkolane/intro-to-rake-dumbo-web-career-042219', <br>
+'gingkolane/intro-to-simple-array-manipulations-dumbo-web-career-042219', <br>
+'gingkolane/intro-to-tdd-rspec-and-learn-dumbo-web-career-042219', <br>
+'gingkolane/join-the-fun-rails-dumbo-web-career-042219', <br>
+'gingkolane/js-basics-data-types-readme-dumbo-web-career-042219', <br>
+'gingkolane/js-data-structures-objects-lab-dumbo-web-career-042219', <br>
+'gingkolane/js-data-structures-objects-readme-dumbo-web-career-042219', <br>
+'gingkolane/js-looping-and-iteration-looping-code-along-dumbo-web-career-042219', <br>
+'gingkolane/js-looping-and-iteration-object-iteration-readme-dumbo-web-career-042219', <br>
+'gingkolane/jsdom-dom-challenge-dumbo-web-career-042219', <br>
+'gingkolane/jsdom-fetch-dog-ceo-challenge-dumbo-web-career-042219', <br>
+'gingkolane/jsdom-task-lister-lite-dumbo-web-career-042219', <br>
+'gingkolane/jsdom-toy-tale-dumbo-web-career-042219', <br>
+'gingkolane/key-for-min-value-dumbo-web-career-042219', <br>
+'gingkolane/login_required_lab-dumbo-web-career-042219', <br>
+'gingkolane/login_required_readme-dumbo-web-career-042219', <br>
+'gingkolane/manipulating-hashes-dumbo-web-career-042219', <br>
+'gingkolane/mechanics-of-migrations-dumbo-web-career-042219', <br>
+'gingkolane/model-class-methods-lab-dumbo-web-career-042219', <br>
+'gingkolane/model-class-methods-reading-dumbo-web-career-042219', <br>
+'gingkolane/modification-nested-routes-lab-dumbo-web-career-042219', <br>
+'gingkolane/modification-nested-routes-reading-dumbo-web-career-042219', <br>
+'gingkolane/module-one-final-project-guidelines-dumbo-web-career-042219', <br>
+'gingkolane/my-collect-dumbo-web-career-042219', <br>
+'gingkolane/my-each-dumbo-web-career-042219', <br>
+'gingkolane/my-first-hash-dumbo-web-career-042219', <br>
+'gingkolane/my-little-rainbow-dumbo-web-career-042219', <br>
+'gingkolane/my-select-dumbo-web-career-042219', <br>
+'gingkolane/namespaced-routes-lab-dumbo-web-career-042219', <br>
+'gingkolane/namespaced-routes-reading-dumbo-web-career-042219', <br>
+'gingkolane/nyc-sinatra-dumbo-web-career-042219', <br>
+'gingkolane/omniauth_lab-dumbo-web-career-042219', <br>
+'gingkolane/omniauth_readme-dumbo-web-career-042219', <br>
+'gingkolane/OO-Animal-Zoo-dumbo-web-career-042219', <br>
+'gingkolane/oo-basics-dumbo-web-career-042219', <br>
+'gingkolane/oo-basics-with-class-constants-dumbo-web-career-042219', <br>
+'gingkolane/oo-cash-register-dumbo-web-career-042219', <br>
+'gingkolane/oo-counting-sentences-dumbo-web-career-042219', <br>
+'gingkolane/OO-FlatironMifflin-dumbo-web-career-042219', <br>
+'gingkolane/oo-inheritance-code-along-dumbo-web-career-042219', <br>
+'gingkolane/oo-meowing-cat-dumbo-web-career-042219', <br>
+'gingkolane/OO-mini-project-dumbo-web-career-042219', <br>
+'gingkolane/oo-my-pets-dumbo-web-career-042219', <br>
+'gingkolane/oo-person-dumbo-web-career-042219', <br>
+'gingkolane/oxford-comma-dumbo-web-career-042219', <br>
+'gingkolane/partial-locals-lab-dumbo-web-career-042219', <br>
+'gingkolane/partial-locals-reading-dumbo-web-career-042219', <br>
+'gingkolane/prime-ruby-dumbo-web-career-042219', <br>
+'gingkolane/rack-dynamic-routes-lab-dumbo-web-career-042219', <br>
+'gingkolane/rack-dynamic-web-apps-dumbo-web-career-042219', <br>
+'gingkolane/rack-get-params-lab-dumbo-web-career-042219', <br>
+'gingkolane/rack-intro-dumbo-web-career-042219', <br>
+'gingkolane/rack-responses-lab-dumbo-web-career-042219', <br>
+'gingkolane/rails-blog-associations-validations-dumbo-web-career-042219', <br>
+'gingkolane/rails-blog-nested-forms-dumbo-web-career-042219', <br>
+'gingkolane/rails-blog-nested-resources-dumbo-web-career-042219', <br>
+'gingkolane/rails-create-action-lab-dumbo-web-career-042219', <br>
+'gingkolane/rails-create-action-readme-dumbo-web-career-042219', <br>
+'gingkolane/rails-cru-form_for-lab-dumbo-web-career-042219', <br>
+'gingkolane/rails-dynamic-request-lab-dumbo-web-career-042219', <br>
+'gingkolane/rails-dynamic-request-readme-dumbo-web-career-042219', <br>
+'gingkolane/rails-edit-update-action-readme-dumbo-web-career-042219', <br>
+'gingkolane/rails-form_for-lab-dumbo-web-career-042219', <br>
+'gingkolane/rails-generators-readme-dumbo-web-career-042219', <br>
+'gingkolane/rails-hello-world-lab-dumbo-web-career-042219', <br>
+'gingkolane/rails-index-show-new-create-lab-dumbo-web-career-042219', <br>
+'gingkolane/rails-layouts-and-templates-dumbo-web-career-042219', <br>
+'gingkolane/rails-pollywog-ranch-dumbo-web-career-042219', <br>
+'gingkolane/Rails-Practice-Code-Challenge-Travelatr-dumbo-web-career-042219', <br>
+'gingkolane/rails-programmer-profile-partials-dumbo-web-career-042219', <br>
+'gingkolane/rails-restful-index-action-lab-dumbo-web-career-042219', <br>
+'gingkolane/refactoring-views-with-helpers-lab-dumbo-web-career-042219', <br>
+'gingkolane/refactoring-views-with-helpers-reading-dumbo-web-career-042219', <br>
+'gingkolane/refresher-on-mvc-dumbo-web-career-042219', <br>
+'gingkolane/rendering-collections-lab-dumbo-web-career-042219', <br>
+'gingkolane/rendering-collections-reading-dumbo-web-career-042219', <br>
+'gingkolane/reverse-each-word-dumbo-web-career-042219', <br>
+'gingkolane/routing-nested-resources-lab-dumbo-web-career-042219', <br>
+'gingkolane/routing-nested-resources-reading-dumbo-web-career-042219', <br>
+'gingkolane/ruby-advanced-class-methods-lab-dumbo-web-career-042219', <br>
+'gingkolane/ruby-boating-school-dumbo-web-career-042219', <br>
+'gingkolane/ruby-class-variables-and-class-methods-lab-dumbo-web-career-042219', <br>
+'gingkolane/ruby-closures-readme-dumbo-web-career-042219', <br>
+'gingkolane/ruby-inheritance-lab-dumbo-web-career-042219', <br>
+'gingkolane/ruby-instance-variables-lab-dumbo-web-career-042219', <br>
+'gingkolane/ruby-intro-to-arrays-lab-dumbo-web-career-042219', <br>
+'gingkolane/ruby-intro-to-hashes-lab-dumbo-web-career-042219', <br>
+'gingkolane/ruby-lecture-fixing-our-broken-program-dumbo-web-career-042219', <br>
+'gingkolane/ruby-object-attributes-lab-dumbo-web-career-042219', <br>
+'gingkolane/ruby-object-initialize-lab-dumbo-web-career-042219', <br>
+'gingkolane/ruby-objects-belong-to-lab-dumbo-web-career-042219', <br>
+'gingkolane/ruby-objects-has-many-through-lab-dumbo-web-career-042219', <br>
+'gingkolane/ruby-puppy-dumbo-web-career-042219', <br>
+'gingkolane/ruby-rails-testing-dumbo-web-career-042219', <br>
+'gingkolane/school-domain-dumbo-web-career-042219', <br>
+'gingkolane/sessions_controller_lab-dumbo-web-career-042219', <br>
+'gingkolane/sessions_controller_readme-dumbo-web-career-042219', <br>
+'gingkolane/simple-blackjack-cli-dumbo-web-career-042219', <br>
+'gingkolane/simple-nesting-dumbo-web-career-042219', <br>
+'gingkolane/simple-partials-lab-dumbo-web-career-042219', <br>
+'gingkolane/simple-partials-reading-dumbo-web-career-042219', <br>
+'gingkolane/sinatra-activerecord-setup-dumbo-web-career-042219', <br>
+'gingkolane/sinatra-ar-crud-lab-dumbo-web-career-042219', <br>
+'gingkolane/sinatra-basic-routes-lab-dumbo-web-career-042219', <br>
+'gingkolane/sinatra-basic-views-lab-dumbo-web-career-042219', <br>
+'gingkolane/sinatra-dynamic-routes-codealong-dumbo-web-career-042219', <br>
+'gingkolane/sinatra-dynamic-routes-lab-dumbo-web-career-042219', <br>
+'gingkolane/sinatra-forms-params-readme-walkthrough-dumbo-web-career-042219', <br>
+'gingkolane/sinatra-from-scratch-readme-dumbo-web-career-042219', <br>
+'gingkolane/sinatra-integrating-models-walkthrough-dumbo-web-career-042219', <br>
+'gingkolane/sinatra-mvc-file-structure-dumbo-web-career-042219', <br>
+'gingkolane/sinatra-mvc-lab-dumbo-web-career-042219', <br>
+'gingkolane/sinatra-nested-forms-dumbo-web-career-042219', <br>
+'gingkolane/sinatra-restful-routes-lab-dumbo-web-career-042219', <br>
+'gingkolane/sinatra-view-and-controller-readme-walkthrough-dumbo-web-career-042219', <br>
+'gingkolane/sinatra-views-dumbo-web-career-042219', <br>
+'gingkolane/SQL-bear-organizer-lab-dumbo-web-career-042219', <br>
+'gingkolane/square_array-dumbo-web-career-042219', <br>
+'gingkolane/strong-params-basics-dumbo-web-career-042219', <br>
+'gingkolane/translating-orm-to-ar-dumbo-web-career-042219', <br>
+'gingkolane/traversing-nested-objects-dumbo-web-career-042219', <br>
+'gingkolane/validations-in-controller-actions-rails-dumbo-web-career-042219', <br>
+'gingkolane/validations-in-controller-actions-rails-lab-dumbo-web-career-042219', <br>
+'gingkolane/validations-with-form_for-rails-dumbo-web-career-042219', <br>
+'gingkolane/validations-with-form_tag-rails-dumbo-web-career-042219', <br>
+'gingkolane/validations-with-form_tag-rails-lab-dumbo-web-career-042219', <br>
+'gingkolane/week-1-day-3-discussion-dumbo-web-career-042219', <br>
+'gingkolane/writing-migrations-dumbo-web-career-042219', <br>
+'gingkolane/yield-and-blocks-dumbo-web-career-042219' <br>
 
 dumbo-web-051319 repos: 
-gingkolane/bookliker-practice-challenge-dumbo-web-051319
-gingkolane/cookies_and_sessions_lab-dumbo-web-051319
-gingkolane/debugging-workshop-dumbo-web-051319
-gingkolane/delete-forms-rails-dumbo-web-051319
-gingkolane/displaying-has-many-through-rails-dumbo-web-051319
-gingkolane/fewpjs-acting-on-events-dumbo-web-051319
-gingkolane/fewpjs-document-onload-dumbo-web-051319
-gingkolane/fewpjs-dom-editing-lab-dumbo-web-051319
-gingkolane/fewpjs-event-listening-dumbo-web-051319
-gingkolane/fewpjs-fetch-lab-dumbo-web-051319
-gingkolane/fewpjs-fns-as-first-class-data-array-o-functions-dumbo-web-051319
-gingkolane/fewpjs-fns-as-first-class-data-do-behavior-dumbo-web-051319
-gingkolane/fewpjs-js-fundamentals-arrays-lab-dumbo-web-051319
-gingkolane/fewpjs-js-fundamentals-variables-lab-dumbo-web-051319
-gingkolane/fewpjs-queryselector-methods-dumbo-web-051319
-gingkolane/fewpjs-removing-altering-and-inserting-html-lab-dumbo-web-051319
-gingkolane/fewpjs-sending-data-with-fetch-dumbo-web-051319
-gingkolane/fewpjs-stitching-together-the-three-pillars-dumbo-web-051319
-gingkolane/Flatipotle-Debugging-Lab-dumbo-web-051319
-gingkolane/git-todo
-gingkolane/has_secure_password_lab-dumbo-web-051319
-gingkolane/hogwarts-dumbo-web-051319
-gingkolane/intro-to-npm-readme-dumbo-web-051319
-gingkolane/js-advanced-functions-basic-functions-review-lab-dumbo-web-051319
-gingkolane/js-data-structures-objects-lab-dumbo-web-051319
-gingkolane/js-github-project-dumbo-web-051319
-gingkolane/js-looping-and-iteration-looping-code-along-dumbo-web-051319
-gingkolane/jsdom-fetch-dog-ceo-challenge-dumbo-web-051319
-gingkolane/jsdom-task-lister-lite-dumbo-web-051319
-gingkolane/jsdom-toy-tale-dumbo-web-051319
-gingkolane/login_required_lab-dumbo-web-051319
-gingkolane/lutrivia-react-dumbo-web-051319
-gingkolane/npm-lab-dumbo-web-051319
-gingkolane/rails-form_for-on-edit-readme-dumbo-web-051319
-gingkolane/rails-form_tag-lab-dumbo-web-051319
-gingkolane/rails-form_tag-readme-dumbo-web-051319
-gingkolane/Rails-RubberDucking-dumbo-web-051319
-gingkolane/rails-url-helpers-lab-dumbo-web-051319
-gingkolane/rails-url-helpers-readme-dumbo-web-051319
-gingkolane/react-async-fetch-lab-dumbo-web-051319
-gingkolane/react-async-gif-search-lab-dumbo-web-051319
-gingkolane/react-components-as-routes-dumbo-web-051319
-gingkolane/react-container-components-dumbo-web-051319
-gingkolane/react-dynamic-components-lab-dumbo-web-051319
-gingkolane/React-Pizza-dumbo-web-051319
-gingkolane/react-pokemon-searcher-dumbo-web-051319
-gingkolane/React-Practice-Code-Challenge-dumbo-web-051319
-gingkolane/react-props-movie-lab-dumbo-web-051319
-gingkolane/react-simple-state-lab-dumbo-web-051319
-gingkolane/React-Stocks-dumbo-web-051319
-gingkolane/a-react-app-example-dumbo-web-051319
-gingkolane/sessions_controller_lab-dumbo-web-051319
-gingkolane/sinatra-basic-forms-lab-dumbo-web-051319
-gingkolane/westworld-command-center-react-dumbo-web-051319
-gingkolane/woof-woof-js-practice-dumbo-web-051319
-
+'gingkolane/bookliker-practice-challenge-dumbo-web-051319', <br>
+'gingkolane/cookies_and_sessions_lab-dumbo-web-051319', <br>
+'gingkolane/debugging-workshop-dumbo-web-051319', <br>
+'gingkolane/delete-forms-rails-dumbo-web-051319', <br>
+'gingkolane/displaying-has-many-through-rails-dumbo-web-051319', <br>
+'gingkolane/fewpjs-acting-on-events-dumbo-web-051319', <br>
+'gingkolane/fewpjs-document-onload-dumbo-web-051319', <br>
+'gingkolane/fewpjs-dom-editing-lab-dumbo-web-051319', <br>
+'gingkolane/fewpjs-event-listening-dumbo-web-051319', <br>
+'gingkolane/fewpjs-fetch-lab-dumbo-web-051319', <br>
+'gingkolane/fewpjs-fns-as-first-class-data-array-o-functions-dumbo-web-051319', <br>
+'gingkolane/fewpjs-fns-as-first-class-data-do-behavior-dumbo-web-051319', <br>
+'gingkolane/fewpjs-js-fundamentals-arrays-lab-dumbo-web-051319', <br>
+'gingkolane/fewpjs-js-fundamentals-variables-lab-dumbo-web-051319', <br>
+'gingkolane/fewpjs-queryselector-methods-dumbo-web-051319', <br>
+'gingkolane/fewpjs-removing-altering-and-inserting-html-lab-dumbo-web-051319', <br>
+'gingkolane/fewpjs-sending-data-with-fetch-dumbo-web-051319', <br>
+'gingkolane/fewpjs-stitching-together-the-three-pillars-dumbo-web-051319', <br>
+'gingkolane/Flatipotle-Debugging-Lab-dumbo-web-051319', <br>
+'gingkolane/git-todo', <br>
+'gingkolane/has_secure_password_lab-dumbo-web-051319', <br>
+'gingkolane/hogwarts-dumbo-web-051319', <br>
+'gingkolane/intro-to-npm-readme-dumbo-web-051319', <br>
+'gingkolane/js-advanced-functions-basic-functions-review-lab-dumbo-web-051319', <br>
+'gingkolane/js-data-structures-objects-lab-dumbo-web-051319', <br>
+'gingkolane/js-github-project-dumbo-web-051319', <br>
+'gingkolane/js-looping-and-iteration-looping-code-along-dumbo-web-051319', <br>
+'gingkolane/jsdom-fetch-dog-ceo-challenge-dumbo-web-051319', <br>
+'gingkolane/jsdom-task-lister-lite-dumbo-web-051319', <br>
+'gingkolane/jsdom-toy-tale-dumbo-web-051319', <br>
+'gingkolane/login_required_lab-dumbo-web-051319', <br>
+'gingkolane/lutrivia-react-dumbo-web-051319', <br>
+'gingkolane/npm-lab-dumbo-web-051319', <br>
+'gingkolane/rails-form_for-on-edit-readme-dumbo-web-051319', <br>
+'gingkolane/rails-form_tag-lab-dumbo-web-051319', <br>
+'gingkolane/rails-form_tag-readme-dumbo-web-051319', <br>
+'gingkolane/Rails-RubberDucking-dumbo-web-051319', <br>
+'gingkolane/rails-url-helpers-lab-dumbo-web-051319', <br>
+'gingkolane/rails-url-helpers-readme-dumbo-web-051319', <br>
+'gingkolane/react-async-fetch-lab-dumbo-web-051319', <br>
+'gingkolane/react-async-gif-search-lab-dumbo-web-051319', <br>
+'gingkolane/react-components-as-routes-dumbo-web-051319', <br>
+'gingkolane/react-container-components-dumbo-web-051319', <br>
+'gingkolane/react-dynamic-components-lab-dumbo-web-051319', <br>
+'gingkolane/React-Pizza-dumbo-web-051319', <br>
+'gingkolane/react-pokemon-searcher-dumbo-web-051319', <br>
+'gingkolane/React-Practice-Code-Challenge-dumbo-web-051319', <br>
+'gingkolane/react-props-movie-lab-dumbo-web-051319', <br>
+'gingkolane/react-simple-state-lab-dumbo-web-051319', <br>
+'gingkolane/React-Stocks-dumbo-web-051319', <br>
+'gingkolane/a-react-app-example-dumbo-web-051319', <br>
+'gingkolane/sessions_controller_lab-dumbo-web-051319', <br>
+'gingkolane/sinatra-basic-forms-lab-dumbo-web-051319', <br>
+'gingkolane/westworld-command-center-react-dumbo-web-051319', <br>
+'gingkolane/woof-woof-js-practice-dumbo-web-051319' <br>
 
 Misc practices:
-gingkolane/a-react-app-example-dumbo-web-career-021819
-gingkolane/bikini_bottom
-gingkolane/blog-flash
-gingkolane/building-nested-hashes
-gingkolane/camping_fun
-gingkolane/chicken_Ser
-gingkolane/hello-world
-gingkolane/js-api-samples
-gingkolane/js-data-structures-objects-lab
-gingkolane/Module-4-Code-Challenge-Poesy-
-gingkolane/numfive
-gingkolane/react-forms-lab
-gingkolane/react-props-movie-lab-nyc-web-111918
-gingkolane/Sinatra-Jams
-gingkolane/Sinatra-Jams-II
+'gingkolane/a-react-app-example-dumbo-web-career-021819', <br>
+'gingkolane/bikini_bottom', <br>
+'gingkolane/blog-flash', <br>
+'gingkolane/building-nested-hashes', <br>
+'gingkolane/camping_fun', <br>
+'gingkolane/chicken_Ser', <br>
+'gingkolane/hello-world', <br>
+'gingkolane/js-api-samples', <br>
+'gingkolane/js-data-structures-objects-lab', <br>
+'gingkolane/Module-4-Code-Challenge-Poesy-', <br>
+'gingkolane/numfive', <br>
+'gingkolane/react-forms-lab', <br>
+'gingkolane/react-props-movie-lab-nyc-web-111918', <br>
+'gingkolane/Sinatra-Jams', <br>
+'gingkolane/Sinatra-Jams-II' <br>
