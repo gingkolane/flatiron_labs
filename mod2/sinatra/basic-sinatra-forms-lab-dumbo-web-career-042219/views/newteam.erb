@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="UTF-8">
+  <title>Basketball Team Signup</title>
+ </head>
+ <body>
+    <h1>Create a Basketball Team!</h1>
+
+    <form method="POST" action="/team">
+      <p>Team Name: <input type="text" name="name" value=<%= @team.name %>></p>
+      <p>Coach: <input type="text" name="coach" value=<%= @team.coach%>% ></p>
+      <p>Point Guard: <input type="text" name="pg" value=<%= @team.pg%>"></p>
+      <p>Shooting Guard: <input type="text" name="sg" value=<%= @team.sg%>></p>
+      <p>Power forward: <input type="text" name="pf" value=<%= @team.pf%>></p>
+      <p>Small forward: <input type="text" name="sf" value=<%= @team.sf%>></p>
+      <p>Center: <input type="text" name="c"></p>
+      <input type="submit" id= "Submit">
+    </form>
+ </body>
+</html>

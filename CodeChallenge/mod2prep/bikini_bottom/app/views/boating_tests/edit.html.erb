@@ -1,0 +1,9 @@
+<h1>Edit the boating test: </h1>
+
+<%= form_for @boating_test do |f| %>
+  Test name: <%= f.text_field :test_name %> <br>
+  Student name: <%= f.collection_select :student_id, Student.all, :id, :name %> <br>
+  Instructor name: <%= f.collection_select :instructor_id, Instructor.all, :id, :name %> <br>
+  Test completed: <%= f.check_box :completed %>
+  <%= f.submit %>
+<% end  %>

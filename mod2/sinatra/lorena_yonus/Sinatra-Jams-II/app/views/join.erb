@@ -1,0 +1,22 @@
+<h1>Select who plays what</h1>
+
+<form method="POST" action="/join">
+
+    <select name="join[artist_id]" id="join_artist_id"
+        <% @artists.each do |artist| %>
+            <option value="<%=artist.id%>">
+            <%= artist.name %>
+            </option>
+        <% end %>
+    </select>
+    
+    <select name="join[instrument_id]" id="join_instrument_id"
+    <% @instruments.each do |instrument| %>
+        <option value="<%=instrument.id%>">
+        <%= instrument.name %>
+        </option>
+    <% end %>
+    </select>
+
+    <input type="submit" value="Join"
+</form>

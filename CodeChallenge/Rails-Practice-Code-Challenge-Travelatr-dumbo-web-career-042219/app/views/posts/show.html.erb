@@ -1,0 +1,18 @@
+<h1><%= @post.title %></h1>
+<br>
+Content: <%= @post.content %>
+<br>
+Like count: <%= @post.likes %>
+<br>
+
+Author: 
+<%= link_to @post.blogger.name, @blogger %>
+<br>
+Destination: 
+<%= link_to @post.destination.name, @destination %>
+<br>
+
+<%= form_for @post do |f| %>
+  <%= f.hidden_field :likes, value: @post.add_like_count %>
+  <%= f.submit "Like this post!" %>
+<% end %>

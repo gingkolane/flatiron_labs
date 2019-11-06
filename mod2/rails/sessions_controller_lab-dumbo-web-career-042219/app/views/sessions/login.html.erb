@@ -1,0 +1,16 @@
+<%# check to see if a user is logged %>
+
+
+<%#if logged in, show greeting %>
+
+<%= form_for(@session) do |f| %>
+<%= f.text_field "hi, #{name}" %>
+
+<%= f.submit link_to "Logout" logout_path %>
+<% end  %>
+
+<%#if not logged in, show a sign up page %>
+<%= form_tag ({controller: 'sessions', action: 'create', method: 'post'}) do %>
+  <input name=name>
+  <input type=submit value='login'>
+<% end %>

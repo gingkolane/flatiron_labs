@@ -1,0 +1,22 @@
+<h1>Welcome to <%= @artist.name %>'s page! </h1>
+<p>Age: <%= @artist.age %> </p>
+<p>Bio: <%= @artist.bio %> </p>
+
+<p>Instruments: </p>
+<% @artist.instruments.each do |instrument|%>
+  <a href="/instruments/<%= instrument.id %>">
+  <%= instrument.name %>
+  </a>
+  <br>
+<% end %>
+<br>
+<a href="/artist_instruments/<%= instrument.id %>">
+<p>Add a instrument:</p>
+</a>
+
+
+
+
+<a href="/artists/<%= @artist.id %>/edit">Edit <%= @artist.name %>'s information.</a>
+<br/>
+<a href="/artists">Back to the list of artists.</a>

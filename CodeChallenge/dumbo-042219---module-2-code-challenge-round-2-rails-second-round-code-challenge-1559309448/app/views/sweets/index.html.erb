@@ -1,0 +1,8 @@
+
+<h1>All Sweets</h1>
+
+<ul>
+  <% @sweets.each do |sweet| %>
+    <li><%= link_to sweet.name, sweet_path(sweet) %></li>
+  <% end  %>
+</ul>

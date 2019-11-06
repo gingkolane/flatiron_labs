@@ -1,0 +1,10 @@
+<h1>Hi, I'm <%= @blogger.name %></h1>
+<p>Bio: <%= @blogger.bio %></p>
+<p>Age: <%= @blogger.age %></p>
+<br>
+Total likes:
+<%= @blogger.total_likes %>
+<br>
+Featured post: 
+<%= link_to @blogger.mosted_liked_blog.title, post_path(@blogger.mosted_liked_blog) %>
+

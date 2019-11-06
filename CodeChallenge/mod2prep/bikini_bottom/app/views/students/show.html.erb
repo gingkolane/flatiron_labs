@@ -1,0 +1,10 @@
+<h1><%= @student.name %></h1>
+
+<p>This student's boating test:</p>
+
+<% @boating_tests.each do |test| %>
+  Test name: <%= test.test_name  %> <br>
+  Test status: <%= "Not completed" unless test.completed == true %> <br>
+  <br>
+<% end %>
+

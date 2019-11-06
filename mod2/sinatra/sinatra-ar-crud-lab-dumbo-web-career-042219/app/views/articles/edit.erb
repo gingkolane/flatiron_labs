@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>this returns a html form for editing an article</title>
+</head>
+
+<body>
+    <form action="articles" method="post">
+        <input type="text" name="title">
+        <input type="text" name="content">
+        <href  type="button" value="Edit">
+        <input type="submit" value="Submit">
+
+    
+    </form>
+
+
+
+
+    <form action="/students/<%= @student.id %>" method="POST">
+      <input type="hidden" name="_method" value="PUT">
+      <%= erb :'students/_form' %>
+      <input type="submit" value="Update <%= @student.name %>">
+  </form>
+</body>
+</html>
+
+<%#  %>
+

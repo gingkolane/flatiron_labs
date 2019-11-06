@@ -1,0 +1,15 @@
+<h1>Instrument</h1>
+
+<h5> Instrument Name</h5>
+<%= @instrument.name %> 
+
+<h5> Instrument Brand</h5>
+<%= @instrument.brand %>
+
+
+<h5> Instrument Played By</h5>
+<% @instrument.artists.each do |artist| %>
+    <ul>
+    <li><%=artist.name %></li>
+    </ul>
+<% end %>

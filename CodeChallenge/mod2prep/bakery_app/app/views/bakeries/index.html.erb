@@ -1,0 +1,6 @@
+
+<h1>List of all bakeries </h1>
+
+<% @bakeries.each do |bakery| %>
+<%= link_to bakery.name bakery_path(bakery) %> <br><br>
+<% end  %>

@@ -1,0 +1,52 @@
+<style> @import url('https://fonts.googleapis.com/css?family=Inconsolata'); </style>
+<style>
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700');
+</style>
+
+/* type selector */
+p {
+  font-size: 1em;
+  line-height: 1.5em;
+}
+
+figcaption {
+  font: normal 0.75em/1.5em 'Inconsolata', monospace;
+  color: #000000;
+  text-align: left;
+}
+
+/* class selector */
+.milk-text {
+  font: bold 2.6em 'Montserrat', sans-serif
+  color: olive;
+  text-shadow: 0 2px 3px #000;
+}
+
+/* ID selectors */
+#logo {
+background: green;
+}
+
+#logo h1 {
+font-family: 'Inconsolata', monospace;
+}
+
+#logo h2 {
+font-family: 'Montserrat', sans-serif;
+}
+
+/* psuedo selector */
+
+#details a:link {
+  color:black;
+  text-decoration:none;
+}
+
+#details a:hover {
+  color:black;
+  text-decoration:underline;
+}
+
+#details a:active {
+  color:red;
+}

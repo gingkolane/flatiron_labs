@@ -1,0 +1,24 @@
+<%# <%= form_for @product do |f| %>
+
+<%#f.text_field item.name  %>
+<%#f.submit 'Add to cart'%> 
+
+
+<%# This index mixed together cart page and the add product page %>
+
+<%# cart section: %>
+<ul>  
+  <%= cart.each do |product| %>
+    <li><%= product %></li>
+  <% end %>
+</ul>
+
+<%# add product section %>
+<%# why not use form_for here?  %>
+<%= form_tag ({controller: 'products',
+    action: 'add',
+    method: 'post'}) do %>
+
+  <input name=product>
+  <input type=submit value='add to cart'>
+<% end %>

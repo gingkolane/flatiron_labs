@@ -1,0 +1,14 @@
+<h1>My Genre</h1>
+<label for=""></label>
+<%= @genre.name %>
+<br>
+
+<h5>This genre's songs:</h5>
+
+<% @songs.each do |song| %>
+<%= song.name %>
+<br>
+<% end  %>
+
+
+

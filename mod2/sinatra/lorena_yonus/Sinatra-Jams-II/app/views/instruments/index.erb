@@ -1,0 +1,11 @@
+<h1> All our instruments </h1>
+
+<% @instruments.each do |instrument|%>
+    <ul>
+    <li>
+    <a href= instruments/<%= instrument.id %>>
+    <%= instrument.name%>
+    </a>
+    </li>
+    </ul>
+<% end %>

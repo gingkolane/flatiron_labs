@@ -1,0 +1,20 @@
+<%# <%= form_tag("products/",  method: :get)  %>
+
+<%# text_field_tag:  @product%>
+
+
+<%# button_to: "Add to cart", "/cart"%> %>
+
+<%# The form_tag helper accepts 2 arguments: the path for the action and an options hash.  %>
+
+form_tag({controller: "people", action: "search"}, {method: "get", class: "nifty_form"})
+
+
+<%= form_tag ({controller: 'products',
+action: 'add', method: 'post'}) do %>
+    <%= text_field_tag  @product%>
+    <%= submit_tag "Add to cart" %>
+
+  <input name=product>
+  <input type=submit value='add to cart'>
+<% end %>

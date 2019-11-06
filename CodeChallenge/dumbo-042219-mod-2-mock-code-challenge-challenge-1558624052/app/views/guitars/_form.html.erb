@@ -1,0 +1,17 @@
+<%= form_with(model: guitar, local: true) do |form| %>
+  <% if guitar.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(guitar.errors.count, "error") %> prohibited this guitar from being saved:</h2>
+
+      <ul>
+      <% guitar.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="actions">
+    <%= form.submit %>
+  </div>
+<% end %>

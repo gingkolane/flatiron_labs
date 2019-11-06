@@ -1,0 +1,6 @@
+<%= form_for @boating_test do |f| %>
+  Test name: <%= f.text_field :test_name %> <br>
+  Student name: <%= f.collection_select :student_id, Student.all, :id, :name %> <br>
+  Instructor name: <%= f.collection_select :instructor_id, Instructor.all, :id, :name %> <br>
+  <%= f.submit %>
+<% end  %>

@@ -1,0 +1,16 @@
+<h1>Destination</h1>
+
+<p>The most recent 5 posts:</p>
+<% @recent_five.each do |post| %>
+Title: <%= post.title %> <br>
+Content: <%= post.content %> <br><br><br>
+<% end %>
+
+
+<p>Featured post</p>
+<%= link_to @most_liked.title, @most_liked %>
+
+<br>
+<br>
+
+Bloggers' average age: <%= @average_age  %>

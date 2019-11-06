@@ -1,0 +1,18 @@
+arr = ["apple", "pear", "face", "champagne", "palm tree", "aardvark", "pineapple"]
+
+
+def 3method(arr)
+	arr.select {|x| x.starts_with? 'a'}
+end
+
+
+# Q4"Hi, isn't this a great and interesting sentence??".
+def word_count(arr)
+	arr.split.length
+end
+
+# Q5: return nil
+def rude_greeting(name=nil)
+ name ||= "you jerk"
+ puts "Hey there, #{name}"
+end

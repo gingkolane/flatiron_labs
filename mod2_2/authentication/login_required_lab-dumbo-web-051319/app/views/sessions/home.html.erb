@@ -1,0 +1,5 @@
+<%= "Hi, #{session[:name]}" %>
+
+<%= link_to "secret", {controller: 'secrets', action: 'show'} %>
+
+<%= link_to 'Logout', {controller: 'sessions', action: 'logout'} %>

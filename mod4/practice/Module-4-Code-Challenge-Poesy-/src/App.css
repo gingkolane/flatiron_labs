@@ -1,0 +1,57 @@
+.app {
+  display: grid;
+  grid-template-columns: 2fr 4fr;
+  justify-items: center;
+}
+
+.app > * {
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+  border-style: solid;
+}
+
+.login {
+  height: 3vw;
+  display: grid;
+  justify-content: center;
+  padding: 2vw;
+}
+
+.login-form {
+  height: 100%;
+  width: 100%
+}
+
+
+.user-header {
+  padding: 2vw;
+}
+
+.new-poem-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.new-poem-form > textarea {
+  height: 20vw;
+}
+
+.new-poem-form > * {
+  padding: 1%;
+  margin: 1%;
+}
+
+.new-poem {
+  height: 30vw;
+  padding: 2vw;
+}
+
+.poems-container > * {
+  border-style: solid;
+  padding: 2vw;
+  margin: 1vw;
+}
+.poems-container {
+  padding: 2vw;
+}
